@@ -7,9 +7,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raghavpamnani" alt="raghavpamnani" /></a> </p>
 
-<h3 align="left">Cloud Certifications:</h3>
-<p align="left"> <a href="https://www.credly.com/badges/bc204fa3-98f6-4e7c-9e20-f19e836be944/" target="_blank" rel="noreferrer"> asasasasasas<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://google.accredible.com/28699fc9-f366-41c3-b044-9b8b4cb32289" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </p>
-
 <h3 align="left">Connect With Me:</h3>
 <p align="left">
 <a href="https://twitter.com/raghavpamnani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raghavpamnani" height="30" width="40" /></a>
