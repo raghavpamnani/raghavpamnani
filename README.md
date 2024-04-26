@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Rahul Pamnani</h1>
 <h3 align="center">A Passionate Cloud & DevOps Engineer From India</h3>
 
