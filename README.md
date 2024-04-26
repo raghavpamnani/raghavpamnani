@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rahul Pamnani</h1>
 <h3 align="center">A Passionate Cloud & DevOps Engineer From India</h3>
+
 <h4 align="center"><a href="https://www.credly.com/badges/bc204fa3-98f6-4e7c-9e20-f19e836be944/" target="_blank">AWS Cloud Practitioner Certified</a> & <a href="https://google.accredible.com/28699fc9-f366-41c3-b044-9b8b4cb32289" target="_blank">GCP Associate Cloud Certified</a></h4>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghavpamnani&label=Profile%20views&color=0e75b6&style=flat" alt="raghavpamnani" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raghavpamnani" alt="raghavpamnani" /></a> </p>
 
-<h3 align="left">CLoud Certifications:</h3>
+<h3 align="left">Cloud Certifications:</h3>
 <p align="left"> <a href="https://www.credly.com/badges/bc204fa3-98f6-4e7c-9e20-f19e836be944/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://google.accredible.com/28699fc9-f366-41c3-b044-9b8b4cb32289" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </p>
 
 <h3 align="left">Connect With Me:</h3>
