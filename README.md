@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahul Pamnani</h1>
 <h3 align="center">A Passionate Cloud & DevOps Engineer From India</h3>
 
-<h4 align="center"><a href="https://www.credly.com/badges/bc204fa3-98f6-4e7c-9e20-f19e836be944/" target="_blank">AWS Cloud Practitioner Certified</a> & <a href="https://google.accredible.com/28699fc9-f366-41c3-b044-9b8b4cb32289" target="_blank">GCP Associate Cloud Certified</a></h4>
+<h4 align="center"><a href="https://www.credly.com/badges/bc204fa3-98f6-4e7c-9e20-f19e836be944/" target="_blank">AWS Certified Cloud Practitioner</a> & <a href="https://google.accredible.com/28699fc9-f366-41c3-b044-9b8b4cb32289" target="_blank">GCP Associate Cloud Certified</a></h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghavpamnani&label=Profile%20views&color=0e75b6&style=flat" alt="raghavpamnani" /> </p>
 
