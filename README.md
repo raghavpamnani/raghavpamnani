@@ -18,7 +18,7 @@
 
 <h1 align="center">Github Stats</h1>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raghavpamnani&show_icons=true&locale=en&layout=compact" alt="raghavpamnani" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raghavpamnani&show_icons=true&locale=en&layout=compact" alt="raghavpamnani" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raghavpamnani&show_icons=true&locale=en" alt="raghavpamnani" /></p>
 
