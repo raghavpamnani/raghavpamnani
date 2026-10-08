@@ -29,13 +29,25 @@ I'm a technical team lead based in India, specializing in **AWS, DevOps, data en
 - **AI & IoT:** connecting telemetry to an S3 data lake, with Bedrock RAG, OpenSearch vector search, and SageMaker anomaly detection.
 - **Container delivery:** experience managing 400+ containers, implementing Kubernetes and Argo CD GitOps, and automating infrastructure and deployments.
 
-## Featured public project
+## Bootcamp projects by week
 
-### Relay Support Copilot
+These are hands-on bootcamp demonstrations, separate from my professional client work.
 
-A local-first AI support triage bootcamp demo built with **FastAPI, JWT, Pydantic v2, Streamlit, Ollama, and CI**.
+### 🧠 Relay Support Copilot — Week 2
 
-[Explore the project →](https://github.com/raghavpamnani/relay-support-copilot-week2)
+A local-first AI support triage demo using **FastAPI, JWT, Pydantic v2, Streamlit, and Ollama**, with CI.
+
+[View demo project →](https://github.com/raghavpamnani/relay-support-copilot-week2)
+
+### 📂 TeamDocs — Week 1
+
+A backend engineering demo: a tenant-aware document workspace with **RBAC, secure uploads, approvals, GitHub integration, Docker, and tested recovery**.
+
+*Repository is private.*
+
+### 🔎 Core AI Engineering — Week 3 (planned)
+
+A separate project covering hybrid RAG, reranking, source-backed knowledge graphs, evaluations, and guardrails. The repository will be linked when ready.
 
 ## Certifications
 
