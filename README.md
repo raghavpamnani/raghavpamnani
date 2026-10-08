@@ -9,7 +9,7 @@
 Building cloud platforms, automated delivery workflows, data pipelines, and AI applications.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/rahul-pamnani-cloud-devops-engineer/)
-[![Credentials](https://img.shields.io/badge/Credentials-View_badges-243746?style=for-the-badge)](https://www.credly.com/users/rahul.pamnani.ibm)
+[![Credly](https://img.shields.io/badge/Credly-View_badges-243746?style=for-the-badge)](https://www.credly.com/users/rahul.pamnani.ibm)
 [![GitHub](https://img.shields.io/badge/GitHub-Explore_projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raghavpamnani?tab=repositories)
 
 </div>
@@ -110,6 +110,6 @@ A backend engineering demo: a tenant-aware document workspace with **RBAC, secur
 
 **Let's connect about AI engineering, AWS, data platforms, and DevOps.**
 
-[LinkedIn](https://www.linkedin.com/in/rahul-pamnani-cloud-devops-engineer/) · [GitHub](https://github.com/raghavpamnani) · [Credentials](https://www.credly.com/users/rahul.pamnani.ibm)
+[LinkedIn](https://www.linkedin.com/in/rahul-pamnani-cloud-devops-engineer/) · [GitHub](https://github.com/raghavpamnani) · [Credly](https://www.credly.com/users/rahul.pamnani.ibm)
 
 </div>
