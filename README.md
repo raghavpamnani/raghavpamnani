@@ -2,7 +2,10 @@
 
 # Rahul Pamnani
 
-### Tech Lead · AI & Cloud Engineering · Data Engineering · DevOps
+### Technical Team Lead | AWS Cloud & DevOps Architect
+
+**3× AWS Certified · Claude Certified · Generative AI & Agentic AI**  
+Kubernetes · Terraform · Snowflake · Python
 
 **9+ years in IT · 8+ years focused on Cloud & DevOps · Leading teams of 10–12 engineers**
 
