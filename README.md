@@ -58,6 +58,7 @@ Experience managing 400+ containers across Kubernetes clusters, implementing Arg
 
 | Credential | Badge / credential link |
 | :--- | :--- |
+| Claude Certified Developer – Foundations · Anthropic | [View credential](https://www.credly.com/badges/e76aed4c-ed10-4db0-bbdf-61e6bf6bad18) |
 | AWS Certified Solutions Architect – Associate | [View credential](https://www.credly.com/badges/41c22fe1-dc1d-4a07-8019-765c888d65f8) |
 | AWS Certified AI Practitioner | [View credential](https://www.credly.com/badges/fd84d8aa-37dc-4c84-8d25-b976cec6bb19) |
 | AWS Certified Cloud Practitioner | [View credential](https://www.credly.com/badges/bc204fa3-98f6-4e7c-9e20-f19e836be944) |
