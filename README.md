@@ -1,25 +1,69 @@
-<h1 align="center">Hi 👋, I'm Rahul Pamnani</h1>
-<h3 align="center">A Passionate Cloud & DevOps Engineer From India</h3>
+<div align="center">
 
-<h4 align="center"><a href="https://www.credly.com/badges/bc204fa3-98f6-4e7c-9e20-f19e836be944/" target="_blank">AWS Certified Cloud Practitioner</a> & <a href="https://google.accredible.com/28699fc9-f366-41c3-b044-9b8b4cb32289" target="_blank">GCP Associate Cloud Certified</a></h4>
+# Hi, I'm Rahul Pamnani 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raghavpamnani&label=Profile%20views&color=0e75b6&style=flat" alt="raghavpamnani" /> </p>
+### Cloud & DevOps Engineer · Building practical AI systems
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raghavpamnani" alt="raghavpamnani" /></a> </p>
+Based in India. Working across cloud infrastructure, automation, backend engineering, and AI applications.
 
-<h3 align="left">Connect With Me:</h3>
-<p align="left">
-<a href="https://twitter.com/raghavpamnani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raghavpamnani" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/rahul-pamnani-cloud-devops-engineer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rahul-pamnani-44532bb1/" height="30" width="40" /></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/rahul-pamnani-cloud-devops-engineer/)
+[![GitHub](https://img.shields.io/badge/GitHub-Explore_my_work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raghavpamnani?tab=repositories)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
+</div>
 
-<h1 align="center">Github Stats</h1>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raghavpamnani&show_icons=true&locale=en&layout=compact" alt="raghavpamnani" /></p>
+## About me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raghavpamnani&show_icons=true&locale=en" alt="raghavpamnani" /></p>
+I work with cloud platforms, containers, CI/CD, and Python. I'm expanding that foundation through hands-on AI engineering projects, with a focus on applications that are useful, testable, and straightforward to run.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raghavpamnani&" alt="raghavpamnani" /></p>
+- **Cloud & delivery:** AWS, Google Cloud, Docker, Kubernetes, and Jenkins.
+- **Backend engineering:** Python, FastAPI, authentication, authorization, and API design.
+- **Current learning:** document parsing, hybrid search, retrieval-augmented generation (RAG), reranking, knowledge graphs, evaluations, and guardrails.
+- **Engineering priorities:** clear architecture, reproducible setup, meaningful tests, and evidence-backed documentation.
+
+## Featured projects
+
+### 🧠 Relay Support Copilot · AI Bootcamp, Week 2
+
+A local-first support triage application built with **FastAPI, JWT, Pydantic v2, Streamlit, and Ollama**, with continuous integration.
+
+[Explore the repository →](https://github.com/raghavpamnani/relay-support-copilot-week2)
+
+### 📂 TeamDocs · AI Bootcamp, Week 1
+
+A tenant-aware document workspace with **role-based access control, secure uploads, approvals, GitHub integration, Docker, and tested recovery**.
+
+[Explore the repository →](https://github.com/raghavpamnani/teamdocs-week1)
+
+## Technology toolkit
+
+| Area | Technologies |
+| :--- | :--- |
+| Cloud | AWS · Google Cloud |
+| Containers & orchestration | Docker · Kubernetes |
+| Automation & delivery | Jenkins · Git · Bash |
+| Backend & validation | Python · FastAPI · Pydantic |
+| AI applications | Ollama · RAG concepts · Retrieval evaluation |
+| Application interfaces | Streamlit |
+
+## Certifications
+
+- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/bc204fa3-98f6-4e7c-9e20-f19e836be944/)
+- [Google Cloud Associate Cloud Engineer credential](https://google.accredible.com/28699fc9-f366-41c3-b044-9b8b4cb32289)
+
+## Learning in public
+
+I'm documenting my progress through a production-focused AI and LLM systems bootcamp. My current Week 3 focus is combining retrieval, source-backed relationships, automated evaluations, and security guardrails in a separate project.
+
+Completed projects are linked above; new work will be added as it becomes ready to share.
+
+---
+
+<div align="center">
+
+**Let's connect around cloud engineering, DevOps, and practical AI applications.**
+
+[LinkedIn](https://www.linkedin.com/in/rahul-pamnani-cloud-devops-engineer/) · [GitHub repositories](https://github.com/raghavpamnani?tab=repositories)
+
+</div>
