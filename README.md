@@ -36,16 +36,6 @@ Currently working at **Hakkoda — an IBM company, via BOT payroll**, across AWS
 - **Data engineering:** ingestion and ETL workflows with AWS Glue, EMR, Lambda, Step Functions, Apache Airflow, and Snowflake.
 - **Observability:** dashboards, alerting, and workload monitoring using Datadog, Prometheus, Grafana, and CloudWatch.
 
-## Career journey
-
-| Period | Organization | Focus |
-| :--- | :--- | :--- |
-| Jan 2025 – Present | Hakkoda, an IBM company · via BOT payroll | AI, AWS cloud, data engineering, DevOps, and technical leadership |
-| Oct 2024 – Dec 2024 | Accenture · via eTeam payroll | Cloud & DevOps engineering, Kubernetes |
-| Apr 2021 – Sep 2024 | Suventure Services | AWS, DevOps, and Google Cloud engineering |
-| May 2018 – Mar 2021 | Measure Marketing | AWS cloud and web development |
-| Jan 2017 – Apr 2018 | MobiDoWonders | Frontend, WordPress, and WooCommerce development |
-
 ## Selected professional work
 
 **Cloud & data platform leadership**  
