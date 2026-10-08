@@ -21,31 +21,21 @@ Building cloud platforms, automated delivery workflows, data pipelines, and AI a
 
 ## About me
 
-I'm an AI, AWS Cloud, Data, and DevOps engineer based in India, with experience designing, automating, securing, and operating cloud infrastructure. My primary cloud is **AWS**, with additional experience on **Google Cloud**.
-
-My work spans technical leadership, infrastructure as code, Kubernetes, CI/CD, data orchestration, and generative AI. I lead engineering teams through technical direction, code reviews, delivery standards, and stakeholder coordination.
-
-Currently working at **Hakkoda — an IBM company, via BOT payroll**, across AWS cloud, data engineering, DevOps, and AI initiatives.
-
-## Professional focus
-
-- **AI & ML:** RAG assistants with Amazon Bedrock and OpenSearch Serverless; model training and evaluation with SageMaker AI.
-- **Cloud architecture:** AWS infrastructure, serverless services, container platforms, cloud migrations, and security controls.
-- **Infrastructure as code:** reusable Terraform modules, Terraform Cloud workspaces, remote state, and AWS CloudFormation.
-- **DevOps & GitOps:** automated delivery with GitLab CI/CD, GitHub Actions, Jenkins, AWS developer services, and Argo CD.
-- **Data engineering:** ingestion and ETL workflows with AWS Glue, EMR, Lambda, Step Functions, Apache Airflow, and Snowflake.
-- **Observability:** dashboards, alerting, and workload monitoring using Datadog, Prometheus, Grafana, and CloudWatch.
+I'm a technical team lead based in India, specializing in **AWS, DevOps, data engineering, and AI**. I build cloud platforms, automate delivery, and lead engineering teams at **Hakkoda — an IBM company, via BOT payroll**.
 
 ## Selected professional work
 
-**Cloud & data platform leadership**  
-Leading a team of 10–12 engineers, managing delivery standards across 50+ GitLab repositories, and building AWS data workflows with Airflow, Glue, EMR, Lambda, and Step Functions. Infrastructure provisioning uses Terraform Cloud, with CI/CD quality gates and Datadog monitoring.
+- **Cloud & data platforms:** leading 10–12 engineers and delivery standards across 50+ GitLab repositories, with Terraform Cloud, CI/CD, AWS data workflows, and Datadog.
+- **AI & IoT:** connecting telemetry to an S3 data lake, with Bedrock RAG, OpenSearch vector search, and SageMaker anomaly detection.
+- **Container delivery:** experience managing 400+ containers, implementing Kubernetes and Argo CD GitOps, and automating infrastructure and deployments.
 
-**IoT data intelligence with generative AI**  
-Experience connecting IoT telemetry ingestion through AWS IoT Core and Kinesis to an S3 data lake, with a Bedrock RAG assistant over manuals and maintenance logs, OpenSearch vector search, and SageMaker anomaly detection.
+## Featured public project
 
-**Cloud automation & container delivery**  
-Experience managing 400+ containers across Kubernetes clusters, implementing Argo CD GitOps, building reusable Terraform infrastructure, and automating deployment workflows with Jenkins, GitHub Actions, and AWS CodePipeline.
+### Relay Support Copilot
+
+A local-first AI support triage bootcamp demo built with **FastAPI, JWT, Pydantic v2, Streamlit, Ollama, and CI**.
+
+[Explore the project →](https://github.com/raghavpamnani/relay-support-copilot-week2)
 
 ## Certifications
 
@@ -74,24 +64,6 @@ Experience managing 400+ containers across Kubernetes clusters, implementing Arg
 | Data | Apache Airflow · AWS Glue · EMR · Athena · Redshift · Snowflake |
 | Monitoring | Datadog · Prometheus · Grafana · CloudWatch |
 | Languages & databases | Python · Bash · SQL · PostgreSQL · MySQL · DynamoDB |
-
-## Public bootcamp demos
-
-These repositories are hands-on bootcamp demonstrations, separate from my professional client work.
-
-### 🧠 Relay Support Copilot — Week 2
-
-A local-first AI support triage demo using **FastAPI, JWT, Pydantic v2, Streamlit, and Ollama**, with CI.
-
-[View demo project →](https://github.com/raghavpamnani/relay-support-copilot-week2)
-
-### 📂 TeamDocs — Week 1
-
-A backend engineering demo: a tenant-aware document workspace with **RBAC, secure uploads, approvals, GitHub integration, Docker, and tested recovery**.
-
-[View demo project →](https://github.com/raghavpamnani/teamdocs-week1)
-
-**Week 3 — planning:** a separate Core AI Engineering project covering hybrid RAG, reranking, source-backed knowledge graphs, evaluations, and guardrails. The repository will be linked when ready.
 
 ## Education
 
