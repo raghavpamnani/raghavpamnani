@@ -4,10 +4,11 @@
 
 ### Technical Team Lead | AWS Cloud & DevOps Architect
 
-**3× AWS Certified · Claude Certified · Generative AI & Agentic AI**  
+**3× AWS Certified · Claude Certified Developer · Claude Code Badge · Generative AI & Agentic AI**  
 Kubernetes · Terraform · Snowflake · Python
 
-**9+ years in IT · 8+ years focused on Cloud & DevOps · Leading teams of 10–12 engineers**
+**9 years 9 months in IT · 8+ years focused on Cloud & DevOps · Leading teams of 14–15 engineers**  
+*Experience as of October 2026.*
 
 Building cloud platforms, automated delivery workflows, data pipelines, and AI applications.
 
@@ -21,11 +22,11 @@ Building cloud platforms, automated delivery workflows, data pipelines, and AI a
 
 ## About me
 
-I'm a technical team lead based in India, specializing in **AWS, DevOps, data engineering, and AI**. I build cloud platforms, automate delivery, and lead engineering teams at **Hakkoda — an IBM company, via BOT payroll**.
+I'm a technical team lead based in India, specializing in **AWS cloud architecture, DevOps, data engineering, Generative AI, and Agentic AI**. I build cloud platforms, automate delivery, and lead engineering teams at **Hakkoda — an IBM company, via BOT payroll**.
 
 ## Selected professional work
 
-- **Cloud & data platforms:** leading 10–12 engineers and delivery standards across 50+ GitLab repositories, with Terraform Cloud, CI/CD, AWS data workflows, and Datadog.
+- **Cloud & data platforms:** leading 14–15 engineers and delivery standards across 50+ GitLab repositories, with Terraform Cloud, CI/CD, AWS data workflows, and Datadog.
 - **AI & IoT:** connecting telemetry to an S3 data lake, with Bedrock RAG, OpenSearch vector search, and SageMaker anomaly detection.
 - **Container delivery:** experience managing 400+ containers, implementing Kubernetes and Argo CD GitOps, and automating infrastructure and deployments.
 
@@ -54,6 +55,7 @@ A separate project covering hybrid RAG, reranking, source-backed knowledge graph
 | Credential | Badge / credential link |
 | :--- | :--- |
 | Claude Certified Developer – Foundations · Anthropic | [View credential](https://www.credly.com/badges/e76aed4c-ed10-4db0-bbdf-61e6bf6bad18) |
+| Claude Code Badge | [View badge](https://www.credly.com/badges/06138a8d-60fc-45a4-81c4-33c191740552/public_url) |
 | AWS Certified Solutions Architect – Associate | [View credential](https://www.credly.com/badges/41c22fe1-dc1d-4a07-8019-765c888d65f8) |
 | AWS Certified AI Practitioner | [View credential](https://www.credly.com/badges/fd84d8aa-37dc-4c84-8d25-b976cec6bb19) |
 | AWS Certified Cloud Practitioner | [View credential](https://www.credly.com/badges/bc204fa3-98f6-4e7c-9e20-f19e836be944) |
@@ -69,7 +71,7 @@ A separate project covering hybrid RAG, reranking, source-backed knowledge graph
 | Area | Tools & technologies |
 | :--- | :--- |
 | Cloud | AWS · Google Cloud |
-| AI / ML | Amazon Bedrock · SageMaker AI · RAG · Embeddings · OpenSearch Serverless |
+| Generative AI & AI / ML | Amazon Bedrock · SageMaker AI · LLMs · RAG · Prompt Engineering · Embeddings · OpenSearch Serverless · AI Agents · Tool / Function Calling · MCP |
 | Infrastructure | Terraform · Terraform Cloud · AWS CloudFormation |
 | Containers | Docker · Kubernetes · Amazon EKS / ECS · Argo CD |
 | CI/CD | GitLab CI/CD · GitHub Actions · Jenkins · AWS CodePipeline / CodeDeploy |
