@@ -2,9 +2,9 @@
 
 # Rahul Pamnani
 
-### Technical Team Lead | AWS Cloud & DevOps Architect
+### Technical Team Lead | AWS Cloud & DevOps Architect | Generative & Agentic AI
 
-**3× AWS Certified · Claude Certified Developer · Claude Code Badge · Generative AI & Agentic AI**  
+**3× AWS Certified · Claude Certified Developer · Claude Code Badge**  
 Kubernetes · Terraform · Snowflake · Python
 
 **9 years 9 months in IT · 8+ years focused on Cloud & DevOps · Leading teams of 14–15 engineers**  
