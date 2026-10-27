@@ -32,23 +32,37 @@ I'm a technical team lead based in India, specializing in **AWS cloud architectu
 
 ## Bootcamp projects by week
 
-These are hands-on bootcamp demonstrations, separate from my professional client work.
-
-### 🧠 Relay Support Copilot — Week 2
-
-A local-first AI support triage demo using **FastAPI, JWT, Pydantic v2, Streamlit, and Ollama**, with CI.
-
-[View demo project →](https://github.com/raghavpamnani/relay-support-copilot-week2)
+Five hands-on projects from the Production-Grade AI & LLM Systems Bootcamp, separate from my professional client work.
 
 ### 📂 TeamDocs — Week 1
 
-A backend engineering demo: a tenant-aware document workspace with **RBAC, secure uploads, approvals, GitHub integration, Docker, and tested recovery**.
+A tenant-aware document workspace with **FastAPI, role-based access, secure uploads, approval workflows, GitHub README imports, SQLite, and Docker**. Includes API tests and backup/recovery verification.
 
-*Repository is private.*
+[Explore TeamDocs →](https://github.com/raghavpamnani/teamdocs-week1)
 
-### 🔎 Core AI Engineering — Week 3 (planned)
+### 🧠 Relay Support Copilot — Week 2
 
-A separate project covering hybrid RAG, reranking, source-backed knowledge graphs, evaluations, and guardrails. The repository will be linked when ready.
+A local-first support ticket copilot that classifies issues, identifies urgency, and drafts replies for human review. Built with **FastAPI, JWT, Pydantic v2, Streamlit, and Ollama**, with validated structured outputs and CI.
+
+[Explore Relay →](https://github.com/raghavpamnani/relay-support-copilot-week2)
+
+### 🔎 IncidentLens — Week 3
+
+An incident-investigation demo that turns runbooks and postmortems into cited answers and traceable service dependencies. Combines **hybrid RAG, cross-encoder reranking, source-backed knowledge graphs, PII guardrails, and retrieval evaluations**.
+
+[Explore IncidentLens →](https://github.com/raghavpamnani/incidentlens-week3)
+
+### 🛒 ProcureFlow — Week 4
+
+A local multi-agent procurement assistant using **LangGraph, LangChain, MCP tools, Ollama, and SQLite persistence**. Demonstrates semantic memory, independent requester/approver accounts, durable human approval, and duplicate-order prevention with fictional suppliers and simulated purchases.
+
+[Explore ProcureFlow →](https://github.com/raghavpamnani/procureflow-week4)
+
+### 🛡️ Aegis Gateway — Week 5
+
+An observable AI gateway and support-investigation capstone with **bounded retries, fallback routing, hybrid retrieval, semantic caching, SSE streaming, and OpenTelemetry traces**. Includes a reproducible reliability lab and an optional live Ollama mode; the default profile uses simulated model responses with a real retrieval and gateway pipeline.
+
+[Explore Aegis Gateway →](https://github.com/raghavpamnani/aegis-gateway-week5)
 
 ## Certifications
 
