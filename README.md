@@ -30,37 +30,37 @@ I'm a technical team lead based in India, specializing in **AWS cloud architectu
 - **AI & IoT:** connecting telemetry to an S3 data lake, with Bedrock RAG, OpenSearch vector search, and SageMaker anomaly detection.
 - **Container delivery:** experience managing 400+ containers, implementing Kubernetes and Argo CD GitOps, and automating infrastructure and deployments.
 
-## Bootcamp projects by week
+## AI Engineering Projects
 
-Five hands-on projects from the Production-Grade AI & LLM Systems Bootcamp, separate from my professional client work.
+Hands-on applications exploring **LLMs, retrieval-augmented generation, multi-agent workflows, MCP, and AI reliability**, supported by secure backend engineering. Each repository includes implementation details and demo scope.
 
-### 📂 TeamDocs — Week 1
+### 📂 TeamDocs — Document Workflow Foundation
 
-A tenant-aware document workspace with **FastAPI, role-based access, secure uploads, approval workflows, GitHub README imports, SQLite, and Docker**. Includes API tests and backup/recovery verification.
+A tenant-aware document workspace that provides a backend foundation for future AI workflows. Built with **FastAPI, role-based access, secure uploads, approval workflows, GitHub README imports, SQLite, and Docker**, with API tests and backup/recovery verification.
 
 [Explore TeamDocs →](https://github.com/raghavpamnani/teamdocs-week1)
 
-### 🧠 Relay Support Copilot — Week 2
+### 🧠 Relay Support Copilot — LLM-Powered Support Triage
 
-A local-first support ticket copilot that classifies issues, identifies urgency, and drafts replies for human review. Built with **FastAPI, JWT, Pydantic v2, Streamlit, and Ollama**, with validated structured outputs and CI.
+A local-first AI copilot that classifies support tickets, identifies urgency, and drafts replies for human review. Built with **FastAPI, JWT, Pydantic v2, Streamlit, and Ollama**, with validated structured outputs and CI.
 
 [Explore Relay →](https://github.com/raghavpamnani/relay-support-copilot-week2)
 
-### 🔎 IncidentLens — Week 3
+### 🔎 IncidentLens — Hybrid RAG & Knowledge Graphs
 
 An incident-investigation demo that turns runbooks and postmortems into cited answers and traceable service dependencies. Combines **hybrid RAG, cross-encoder reranking, source-backed knowledge graphs, PII guardrails, and retrieval evaluations**.
 
 [Explore IncidentLens →](https://github.com/raghavpamnani/incidentlens-week3)
 
-### 🛒 ProcureFlow — Week 4
+### 🛒 ProcureFlow — Multi-Agent Procurement Assistant
 
-A local multi-agent procurement assistant using **LangGraph, LangChain, MCP tools, Ollama, and SQLite persistence**. Demonstrates semantic memory, independent requester/approver accounts, durable human approval, and duplicate-order prevention with fictional suppliers and simulated purchases.
+A local procurement assistant using **LangGraph, LangChain, MCP tools, Ollama, and SQLite persistence**. Demonstrates semantic memory, independent requester/approver accounts, durable human approval, and duplicate-order prevention with fictional suppliers and simulated purchases.
 
 [Explore ProcureFlow →](https://github.com/raghavpamnani/procureflow-week4)
 
-### 🛡️ Aegis Gateway — Week 5
+### 🛡️ Aegis Gateway — AI Reliability & Observability
 
-An observable AI gateway and support-investigation capstone with **bounded retries, fallback routing, hybrid retrieval, semantic caching, SSE streaming, and OpenTelemetry traces**. Includes a reproducible reliability lab and an optional live Ollama mode; the default profile uses simulated model responses with a real retrieval and gateway pipeline.
+An observable AI gateway and support-investigation lab with **bounded retries, fallback routing, hybrid retrieval, semantic caching, SSE streaming, and OpenTelemetry traces**. Includes reproducible failure scenarios and an optional live Ollama mode; the default profile uses simulated model responses with a real retrieval and gateway pipeline.
 
 [Explore Aegis Gateway →](https://github.com/raghavpamnani/aegis-gateway-week5)
 
